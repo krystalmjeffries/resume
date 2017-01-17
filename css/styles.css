@@ -1,15 +1,23 @@
 .myinfo {
   text-align: center;
   font-family: arial;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .jobheadings {
-  font-style: italic;
   font-weight: bold;
   font-family: arial;
 }
 
 .h3 {
   text-decoration: underline;
+}
+
+.education {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.jobdescription {
+  font-style: italic;
 }
